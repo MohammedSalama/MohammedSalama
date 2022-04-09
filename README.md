@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedsalama&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedsalama" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedsalama" alt="mohammedsalama" /></a> </p>
+
+- 🌱 I’m currently learning **Algorithms**
+
 - 📫 How to reach me **mohamed96salama@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jIQsZiuojjcJvref15iZZGO7zw4EOY-z/view?usp=sharing](https://drive.google.com/file/d/1jIQsZiuojjcJvref15iZZGO7zw4EOY-z/view?usp=sharing)
