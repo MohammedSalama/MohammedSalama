@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Algorithms**
 
-- 📫 How to reach me **mohamed96salama@gmail.com**
+- 📫 How to reach me **devmuhammedsalama@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jIQsZiuojjcJvref15iZZGO7zw4EOY-z/view?usp=sharing](https://drive.google.com/file/d/1jIQsZiuojjcJvref15iZZGO7zw4EOY-z/view?usp=sharing)
 
