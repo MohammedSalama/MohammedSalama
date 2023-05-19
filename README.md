@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/muhammed-s-2b13a4a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-s-2b13a4a0" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9510093/dev-muhammed-salama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9510093/dev-muhammed-salama" height="30" width="40" /></a>
-<a href="https://fb.com/2020muhammed96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="2020muhammed96" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/2020muhammed96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="2020muhammed96" height="30" width="40" /></a> -->
 <a href="https://discord.gg/3118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3118" height="30" width="40" /></a>
 </p>
 
